@@ -17,6 +17,7 @@ Construction and measurements are available in arduino_clock.scad. Open the file
 - MAX2719 4pcs 8x8 led display grids (I purchased 4 connected modules)
 - RTC module (e.g. TinyRTC)
 - 3pcs 10kOhm resistors
+- 3pcs small push buttons
 - Some wires
 
 Also, for building the case I used 12mm veneer which I had lying around. SCAD file is for 12mm thickness. I decorated veneer with wooden film, specifically this.
